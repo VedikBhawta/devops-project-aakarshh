@@ -1,10 +1,10 @@
-# DevOps Deployment Pipeline - Aakarsh
+# DevOps Deployment Pipeline - Vedik
 
 ## 👤 Student Details
 
-- **Name:** Aakarsh Panwar 
-- **SAP ID:** 500120493
-- **Batch:** 4  
+- **Name:** Vedik Bhawta 
+- **SAP ID:** 500120281
+- **Batch:** 3 
 
 ## 📌 Project Overview
 
